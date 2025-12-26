@@ -1,0 +1,11 @@
+{
+  "language": "English",
+  "language.code": "en_us",
+  "language.region": "United States",
+  "itemGroup.ecnu": "ECNU Craft is Not Useless",
+
+  "item.ecnu.nullset": "Nullset",
+  "item.ecnu.nullset.description": "The president of ECNUMC!",
+
+  "entity.ecnu.nullset": "Nullset"
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[46,)"
+license="MIT"
+issueTrackerURL="https://github.com/Viola-Siemens/ECNU-Minecraft-Mod-Template/issues"
+
+[[mods]]
+modId="ecnu"
+version="${file.jarVersion}"
+displayName="ECNU Craft is Not Useless"
+credits="Liu Dongyu"
+authors="Liu Dongyu"
+logoFile="logo.png"
+description='''
+Make ECNU Greate Again!!!
+'''
+
+[[dependencies.ecnu]]
+    modId="forge"
+    mandatory=true
+    versionRange="[46,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ecnu]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20,1.21)"
+    ordering="NONE"
+    side="BOTH"

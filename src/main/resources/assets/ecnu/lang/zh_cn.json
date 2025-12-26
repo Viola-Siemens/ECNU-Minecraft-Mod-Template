@@ -1,0 +1,11 @@
+{
+  "language": "Chinese",
+  "language.code": "zh_cn",
+  "language.region": "China",
+  "itemGroup.ecnu": "水杉工艺",
+
+  "item.ecnu.nullset": "空集",
+  "item.ecnu.nullset.description": "空集社长伟大喵！",
+
+  "entity.ecnu.nullset": "空集"
+}
